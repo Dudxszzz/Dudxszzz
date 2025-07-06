@@ -2,7 +2,7 @@
 
 **Desenvolvedor | Entusiasta de Tech | Graduando em Ciência da Computação
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardomoreiralima/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardomoreiralima/)
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu-perfil) -->
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dudxszzz)
 
@@ -18,15 +18,15 @@
 ## 📊 Estatísticas do GitHub
 
 <div style="display: flex; gap: 20px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-user&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-user&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dudxszzz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudxszzz&layout=compact&langs_count=7&theme=dracula" />
 </div>
 
 ## 📫 Como me encontrar
 
-- 💼 [LinkedIn](https://linkedin.com/in/seu-perfil)
+- 💼 [LinkedIn](https://www.linkedin.com/in/eduardomoreiralima/)
 - 🐦 [Twitter](https://twitter.com/seu-perfil)
-- 📧 Email: seu-email@exemplo.com
+- 📧 Email: limaedu.contato@gmail.com
 
 ## 🎯 Metas para 2025
 
@@ -34,4 +34,4 @@
 - [ ] Contribuir para mais projetos open-source
 - [ ] Escrever artigos técnicos
 
-⭐️ De [seu-user](https://github.com/seu-user)
+⭐️ De [Dudxszzz](https://github.com/Dudxszzz)
