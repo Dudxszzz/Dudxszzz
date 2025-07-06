@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Eduardo! 
+# Olá, eu sou Eduardo! 
 
 **Desenvolvedor | Entusiasta de Tech | Graduando em Ciência da Computação
 
