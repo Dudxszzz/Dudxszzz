@@ -26,6 +26,5 @@
 
 ## � Metas para 2025
 
-- [ ] Aprender [tecnologia nova]
 - [ ] Contribuir para mais projetos open-source
 - [ ] Escrever artigos técnicos
