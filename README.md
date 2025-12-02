@@ -4,6 +4,7 @@
 
 <div style="display: flex; gap: 15px; flex-wrap: wrap;">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlite/sqlite-original.svg" />
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" />
   <!--<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
