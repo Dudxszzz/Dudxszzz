@@ -15,7 +15,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div style="display: flex; gap: 20px; align-items: center;">
+<div style="display: flex; gap: 20px;">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dudxszzz&show_icons=true&theme=dracula&count_private=true" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dudxszzz&layout=compact&langs_count=7&theme=dracula" />
 </div>
