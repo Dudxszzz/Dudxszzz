@@ -1,6 +1,6 @@
 # Olá, eu sou Eduardo! 
 
-**Desenvolvedor | Entusiasta de Tech | Graduando em Ciência da Computação | Servidores**
+**Desenvolvedor | Entusiasta de Tech | Graduando em Ciência da Computação | Servidores e Redes**
 
 <div style="display: flex; gap: 15px; flex-wrap: wrap;">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
