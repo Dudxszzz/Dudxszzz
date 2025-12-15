@@ -25,7 +25,8 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/eduardomoreiralima/)
 - 📧 Email: limaedu.contato@gmail.com
 
-## � Metas para 2025
+## � Metas para 2026
 
 - [ ] Contribuir para mais projetos open-source
 - [ ] Escrever artigos técnicos
+- [ ] Criar minha API Web (REST API)
